@@ -10,3 +10,7 @@
 1. 使用AD软件打
 2. 查看或修改原理图文件和PCB文件
 3. 打印PCB
+
+
+# 许可证
+LiTestPCB is licensed under [MIT License](https://github.com/eternalchn/LiTestPCB/blob/master/LICENSE).
