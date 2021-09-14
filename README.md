@@ -13,4 +13,4 @@
 
 
 # 许可证
-LiTestPCB is licensed under [MIT License](https://github.com/eternalchn/LiTestPCB/blob/master/LICENSE).
+LiTestPCB is licensed under [GNU General Public License v3.0](https://github.com/eternalchn/LiTestPCB/blob/master/LICENSE).
